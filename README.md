@@ -1,6 +1,6 @@
 # FlyRank AI Fluency — Assignments
 
-Three completed assignments for the General AI Fluency track.
+Eight completed assignments plus the C1 capstone for the General AI Fluency track.
 
 | Assignment | Week | Deliverable |
 |---|---|---|
@@ -14,3 +14,7 @@ Three completed assignments for the General AI Fluency track.
 | Design Your Personal Agent (FL-06) | 5 | [personal-agent-spec/AGENT-SPEC.md](personal-agent-spec/AGENT-SPEC.md) — inbox-triager agent spec: tools, platform choice, 6 eval cases, guardrails |
 
 All runs, outputs, and notes are real. Time estimates include setup cost.
+
+## Capstone (C1) — Impact Project
+
+[capstone/NEXT-CASE.md](capstone/NEXT-CASE.md) — where the next case study goes, the steps to add one (problem → what I did → what came of it), the named next piece of work (the metering & billing capstone), and evidence of a concrete reminder set for November 2, 2026.
